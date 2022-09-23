@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TestGetPopularMovies</description>
+   <name>TestGETPopularMovies</name>
+   <tag>TestGetPopularMovies</tag>
+   <comment></comment>
+   <testCaseGuid>ff2270d1-c1c0-4f90-9aaa-0179f7b4669f</testCaseGuid>
+</TestCaseEntity>
